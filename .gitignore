@@ -1,0 +1,26 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Personal notes (if you want to keep some private)
+# private/
+
+# Credentials and secrets
+*.key
+*.pem
+*.env
+secrets/
+credentials/
